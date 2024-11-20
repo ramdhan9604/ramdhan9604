@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Raamdhan Prajapat!
+# 👋 Hi, I'm Ramdhan Prajapat!
 
 I'm a **Mathematics and Computing student** at **IIT (ISM) Dhanbad**, passionate about leveraging the power of **Machine Learning**, **Deep Learning**, and **AI** to solve complex problems. My academic journey and projects revolve around pushing the boundaries of technology, from **Computer Vision** and **Natural Language Processing** to **Large Language Models (LLMs)**.
 
