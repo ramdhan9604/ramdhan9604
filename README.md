@@ -1,40 +1,36 @@
 # 👋 Hi, I'm Ramdhan Prajapat!
 
-I'm a **Mathematics and Computing student** at **IIT (ISM) Dhanbad**, passionate about leveraging the power of **Machine Learning**, **Deep Learning**, and **AI** to solve complex problems. My academic journey and projects revolve around pushing the boundaries of technology, from **Computer Vision** and **Natural Language Processing** to **Large Language Models (LLMs)**.
+I'm a Mathematics and Computing student at IIT (ISM) Dhanbad, passionate about leveraging the power of Machine Learning, Deep Learning, NLP, Gen AI, LLMs and AI to solve complex problems. My academic journey and projects revolve around pushing the boundaries of technology, from Computer Vision and Natural Language Processing to Large Language Models (LLMs) and Generative AI.
 
----
+## 👨‍💻 What I Do:
 
-### 👨‍💻 What I Do:
+- **Machine Learning (ML)**: Building intelligent systems that can learn from data and make predictions.
+- **Deep Learning (DL)**: Crafting neural networks for real-world applications in image and text processing.
+- **Generative AI (GenAI)**: Developing LLM-powered applications using LangChain, LlamaIndex, and Chainlit.
+- **Computer Vision (CV)**: Extracting meaningful insights from visual data to drive innovation in AI-driven solutions.
+- **Natural Language Processing (NLP)**: Fine-tuning and deploying LLMs using Hugging Face and building RAG pipelines.
 
-- ![ML](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=flat-square) **Machine Learning**: Building intelligent systems that can learn from data and make predictions.
-- ![DL](https://img.shields.io/badge/Deep%20Learning-blue?style=flat-square) **Deep Learning**: Crafting neural networks for real-world applications in image and text processing.
-- ![CV](https://img.shields.io/badge/Computer%20Vision-orange?style=flat-square) **Computer Vision**: Extracting meaningful insights from visual data to drive innovation in AI-driven solutions.
-- ![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-yellow?style=flat-square) **Natural Language Processing (NLP)**: Developing systems that understand and generate human language.
+## 🌟 Key Skills:
 
----
+- **Programming & Frameworks**: Python, TensorFlow, PyTorch, OpenCV
+- **Generative AI Frameworks**: LangChain, LlamaIndex, Chainlit
+- **Vector Databases**: Pinecone, ChromaDB, FAISS
+- **LLM Fine-Tuning**: Hugging Face Transformers, LoRA, PEFT
+- **NLP Tools**: Hugging Face, OpenAI, RAG Pipelines
+- **Data Science Libraries**: NumPy, Pandas, Scikit-learn
+- **Version Control**: Git
 
-### 🌟 Key Skills:
+## 🚀 Currently Looking For:
 
-- ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) **Python**, ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white), ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white), ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)
-- ![NLP Frameworks](https://img.shields.io/badge/NLP-Transformers-blue?style=flat-square) **NLP frameworks**: Transformers
-- ![Data Science](https://img.shields.io/badge/Data%20Science-Pandas-orange?style=flat-square) **Data Science libraries**: NumPy, Pandas, Scikit-learn
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) **Version Control with Git**
+I'm actively seeking opportunities in **Generative AI** and **Data Science**, where I can apply my knowledge and skills to contribute to impactful projects. My goal is to develop solutions that blend mathematics, computing, and AI to solve real-world challenges.
 
-
----
-
-### 🚀 Currently Looking For:
-
-I'm actively seeking opportunities in **Data Science** where I can apply my knowledge and skills to contribute to impactful projects. My goal is to develop solutions that blend **mathematics**, **computing**, and **AI** to solve real-world challenges.
-
----
-
-### 🧠 What I'm Learning:
+## 🧠 What I'm Learning:
 
 - Advanced optimization techniques in ML
+- Scaling LLM applications with distributed systems
+- Exploring multimodal AI systems
 
 
----
 
 ### 📫 Let's Connect!
 
